@@ -1,0 +1,191 @@
+
+header {
+    background-color: black;
+    width: auto;
+    height: auto;
+    position: left;
+    font-size: 60px;
+    font-style: bold;
+    text-align: center;
+}
+
+nav {
+    background-color: black;
+    width: auto;
+    height: 60px;
+    border: 0px;
+    text-align: center;
+}
+
+nav img {
+    padding-right: 550px;
+    padding-top: 5px;
+}
+
+main {
+    width: auto;
+    height: auto;
+}
+
+footer {
+    width: 1422px;
+    height: 40px;
+    text-align: center;
+    font-size: 35px;
+    color: gold;
+}
+
+body {
+    margin: 0px;
+    background-color: black;
+}
+
+nav a {
+    font-size: 30px;
+    text-decoration: none;
+    color: gold;
+    text-align: left;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-family: RobotoBold;
+}
+
+.news1 {
+    font-family: RobotoBold;
+    text-align: center;
+    position: relative;
+    left: 50px;
+    width: 550px;
+    height: auto;
+    border-radius: 7px;
+    text-decoration: none;
+    padding-bottom: 25px;
+}
+
+@font-face {
+    font-family: Roboto;
+    src: url(/Fonts/Roboto-Regular.ttf);
+}
+
+@font-face {
+    font-family: RobotoBold;
+    src: url(/Fonts/Roboto-Bold.ttf);
+}
+
+@font-face {
+    font-family: RobotoThin;
+    src: url(/Fonts/Roboto-Thin.ttf);
+}
+
+.news1 {
+    background-color: gold;
+    text-decoration: none;
+    top: 120px;
+}
+
+.news1link {
+    color: black;
+    text-decoration: none;
+}
+
+.news1image {
+    border-radius: 6px;
+    padding-top: 40px;
+}
+
+nav a:hover {
+    background-color: gold;
+    border-radius: 6px;
+    color: black;
+}
+
+.news2link {
+     color: black;
+     text-decoration: none;
+}
+
+.news2 {
+    font-family: RobotoBold;
+    text-align: center;
+    position: relative;
+    left: 620px;
+    top: -380px;
+
+    background-color: gold;
+    width: 350px;
+    height: auto;
+    border-radius: 7px;
+    text-decoration: none;
+    padding-bottom: 25px;
+    padding-top: 5px;
+}
+
+.news2image {
+    padding-top: 10px;
+}
+
+.newsnet {
+    font-family: Roboto;
+    font-size: 23px;
+    color: gold;
+    position: absolute;
+    top: 770px;
+    left: 60px;
+    text-align: center;
+    right: 40px;
+}
+
+.people {
+    padding-top: 100px;
+    padding-bottom: 200px;
+}
+
+.peoplelist {
+    font-family: RobotoBold;
+    font-size: 25px;
+    height: 15px;
+    color: yellow;
+    position: absolute;
+    left: 170px;
+}    
+.people2 {
+    position: absolute;
+    left: 300px;
+}
+
+.people3 {
+    position: absolute;
+    left: 600px;
+}
+
+.people4 {
+    position: absolute;
+    bottom: 1px;
+    left: 300px;
+}
+
+.people1 {
+    position: absolute;
+}
+
+.peopleintro {
+    font-family: RobotoBold;
+    color: gold;
+    text-align: center;
+    font-size: 40px;
+}
+
+.news3 img{
+    width: 30%;
+}
+
+.news3 {
+    position: relative;
+    left: 130px;
+    bottom: 340px;
+    color: black;
+    text-align: center;
+    background-color: gold;
+    border-radius: 7px;
+    width: 400px;
+}
