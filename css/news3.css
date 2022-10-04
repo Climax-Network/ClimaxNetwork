@@ -55,17 +55,17 @@ nav a {
 
 @font-face {
     font-family: Roboto;
-    src: url(/ClimaxNetwork/Fonts/Roboto-Regular.ttf);
+    src: url(Fonts/Roboto-Regular.ttf);
 }
 
 @font-face {
     font-family: RobotoBold;
-    src: url(/ClimaxNetwork/Fonts/Roboto-Bold.ttf);
+    src: url(Fonts/Roboto-Bold.ttf);
 }
 
 @font-face {
     font-family: RobotoThin;
-    src: url(/ClimaxNetwork/Fonts/Roboto-Thin.ttf);
+    src: url(Fonts/Roboto-Thin.ttf);
 }
 
 
