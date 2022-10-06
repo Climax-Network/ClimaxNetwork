@@ -181,11 +181,16 @@ nav a:hover {
 
 .news3 {
     position: relative;
-    left: 130px;
+    left: 230px;
     bottom: 340px;
     color: black;
     text-align: center;
     background-color: gold;
     border-radius: 7px;
     width: 400px;
+}
+
+
+.news3link a {
+    text-decoration: none;
 }
